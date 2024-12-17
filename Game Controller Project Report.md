@@ -104,7 +104,8 @@ These concepts collectively contribute to a system that is efficient, responsive
 
 An image of the schematic can be found [here](circuit(4).png)
 
-![test](circuit(4).png)
+![test](circuit.png)
+
 ## Test Plan and Results
 
 The following test plan provides detailed steps and results to validate the system's functionality:
